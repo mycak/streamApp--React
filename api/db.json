@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "mycha",
+      "description": "mychaStream",
+      "id": 1
+    },
+    {
+      "title": "secend stream",
+      "description": "secend",
+      "id": 2
+    },
+    {
+      "title": "Mycha Mychaasdasd",
+      "description": "na kielichaasdasd",
+      "id": 6
+    },
+    {
+      "title": "jataman",
+      "description": "dajmos",
+      "id": 7
+    },
+    {
+      "title": "jatamanka",
+      "description": "daimoska",
+      "userId": "104167022335823545984",
+      "id": 8
+    }
+  ]
+}
