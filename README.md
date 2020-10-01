@@ -1,3 +1,10 @@
+##############
+To correct wroks this application, You have to deploy json server with db.json from API - folder and deploy rtmp server from rtmpServer - folder.
+To make a stream You can use OBS Studio.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
